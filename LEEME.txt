@@ -1,0 +1,31 @@
+========================================================================
+STARTER KIT: DISEÑO DE PÁGINAS WEB PARA INDUSTRIAL TECH
+Programa de Preaceleración Industrial Tech (UPC / CIM UPC / S2XPEED)
+Prof. Rafa Biancardi
+========================================================================
+
+¡Bienvenido al Starter Kit de tu proyecto web!
+
+ESTRUCTURA DE ESTA CARPETA:
+------------------------------------------------------------------------
+- index.html
+  El archivo principal de tu página web. Viene estructurado con Bootstrap 5,
+  icono de navegación, tablas de ingeniería, métricas clave y diseño responsivo.
+
+- assets/
+  ├── img/
+  │   └── esquema-arquitectura.svg (Diagrama técnico de muestra)
+  └── docs/
+      └── memoria_tecnica_ejemplo.pdf (PDF de ejemplo para probar la descarga)
+
+INSTRUCCIONES PARA EL TALLER:
+------------------------------------------------------------------------
+1. Abre Visual Studio Code.
+2. Ve a Archivo -> Abrir Carpeta... (File -> Open Folder...) y selecciona esta carpeta "starter-kit".
+3. Abre el archivo "index.html".
+4. Haz clic derecho sobre el archivo "index.html" y pulsa:
+   "Open with Live Server" (Abrir con Live Server).
+5. ¡Listo! Tu navegador abrirá la web en vivo. Cada vez que hagas un cambio
+   y pulses Ctrl + S, la página se recargará automáticamente.
+
+========================================================================
